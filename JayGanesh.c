@@ -1,8 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
-    printf("Jay Ganesh....");
-
-    return 0;
+    printf("Jay Ganesh!!!!!\n") ;    
+    return 0 ;
 }
